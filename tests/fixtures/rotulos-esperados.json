@@ -1,0 +1,188 @@
+{
+  "synthetic": true,
+  "date": "2026-09-24",
+  "availableDates": [
+    "2026-09-24",
+    "2026-09-25",
+    "2026-09-26",
+    "2026-09-27",
+    "2026-09-28",
+    "2026-09-29",
+    "2026-09-30"
+  ],
+  "cinemas": [
+    {
+      "name": "Cinema Exemplo (fictício)",
+      "rows": [
+        [
+          "fixture-0-0",
+          "10:00",
+          [
+            "Infinity Vision",
+            "Dublado"
+          ]
+        ],
+        [
+          "fixture-0-1",
+          "10:15",
+          [
+            "IMAX",
+            "Legendado"
+          ]
+        ],
+        [
+          "fixture-0-2",
+          "10:30",
+          [
+            "Infinity Vision",
+            "Dublado"
+          ]
+        ],
+        [
+          "fixture-0-3",
+          "10:45",
+          [
+            "IMAX",
+            "Legendado"
+          ]
+        ],
+        [
+          "fixture-0-4",
+          "11:00",
+          [
+            "Infinity Vision",
+            "Dublado"
+          ]
+        ],
+        [
+          "fixture-0-5",
+          "11:15",
+          [
+            "IMAX",
+            "Legendado"
+          ]
+        ],
+        [
+          "fixture-0-6",
+          "11:30",
+          [
+            "Infinity Vision",
+            "Dublado"
+          ]
+        ],
+        [
+          "fixture-0-7",
+          "11:45",
+          [
+            "IMAX",
+            "Legendado"
+          ]
+        ],
+        [
+          "fixture-0-8",
+          "12:00",
+          [
+            "Infinity Vision",
+            "Dublado"
+          ]
+        ],
+        [
+          "fixture-0-9",
+          "12:15",
+          [
+            "IMAX",
+            "Legendado"
+          ]
+        ],
+        [
+          "fixture-0-10",
+          "12:30",
+          [
+            "Infinity Vision",
+            "Dublado"
+          ]
+        ],
+        [
+          "fixture-0-11",
+          "12:45",
+          [
+            "IMAX",
+            "Legendado"
+          ]
+        ],
+        [
+          "fixture-0-12",
+          "13:00",
+          [
+            "Infinity Vision",
+            "Dublado"
+          ]
+        ],
+        [
+          "fixture-0-13",
+          "13:15",
+          [
+            "IMAX",
+            "Legendado"
+          ]
+        ],
+        [
+          "fixture-0-14",
+          "13:30",
+          [
+            "Infinity Vision",
+            "Dublado"
+          ]
+        ],
+        [
+          "fixture-0-15",
+          "13:45",
+          [
+            "IMAX",
+            "Legendado"
+          ]
+        ],
+        [
+          "fixture-0-16",
+          "14:00",
+          [
+            "Infinity Vision",
+            "Dublado"
+          ]
+        ],
+        [
+          "fixture-0-17",
+          "14:15",
+          [
+            "IMAX",
+            "Legendado"
+          ]
+        ],
+        [
+          "fixture-0-18",
+          "14:30",
+          [
+            "Infinity Vision",
+            "Dublado"
+          ]
+        ],
+        [
+          "fixture-0-19",
+          "14:45",
+          [
+            "IMAX",
+            "Legendado"
+          ]
+        ],
+        [
+          "fixture-0-20",
+          "15:00",
+          [
+            "Infinity Vision",
+            "Dublado"
+          ]
+        ]
+      ]
+    }
+  ]
+}

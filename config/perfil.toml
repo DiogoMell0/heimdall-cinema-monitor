@@ -1,0 +1,16 @@
+[filme]
+id = "32174"
+nome = "Vingadores: Ultimato Encore (Relançamento)"
+
+[cidade]
+id = "14"
+nome = "Campinas/SP"
+
+[periodo]
+# Fim exclusivo: 02/10 às 00h inclui toda a programação de 01/10.
+inicio = "2026-09-24T00:00:00-03:00"
+fim_exclusivo = "2026-10-02T00:00:00-03:00"
+
+[filtros]
+certificacao = "Infinity Vision"
+idioma = "Legendado"

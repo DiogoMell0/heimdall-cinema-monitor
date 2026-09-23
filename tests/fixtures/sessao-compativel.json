@@ -1,0 +1,105 @@
+{
+  "synthetic": true,
+  "notice": "Fixture: uma sessão compatível e duas rejeitadas pelos filtros.",
+  "source": "https://api-content.ingresso.com/v0/sessions/city/14/event/32174",
+  "checkedAt": "2026-09-14T15:00:00-03:00",
+  "status": 200,
+  "data": [
+    {
+      "date": "2026-09-24",
+      "theaters": [
+        {
+          "id": "cinema-exemplo",
+          "name": "Cinema Exemplo (fictício)",
+          "enabled": true,
+          "blockMessage": "",
+          "rooms": [
+            {
+              "name": "Sala Exemplo",
+              "sessions": [
+                {
+                  "id": "demo-legendado",
+                  "type": [
+                    "Infinity Vision",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-24T10:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-24T10:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=demo-legendado"
+                },
+                {
+                  "id": "demo-dublado",
+                  "type": [
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-24T10:15:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-24T10:15:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=demo-dublado"
+                },
+                {
+                  "id": "demo-outro-formato",
+                  "type": [
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-24T10:30:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-24T10:30:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=demo-outro-formato"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

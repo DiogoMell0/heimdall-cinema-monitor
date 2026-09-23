@@ -1,0 +1,4599 @@
+{
+  "synthetic": true,
+  "notice": "Fixture de regressao da programacao.",
+  "source": "https://api-content.ingresso.com/v0/sessions/city/14/event/32174",
+  "checkedAt": "2026-09-14T15:00:00-03:00",
+  "status": 200,
+  "data": [
+    {
+      "date": "2026-09-24",
+      "theaters": [
+        {
+          "id": "cinema-exemplo",
+          "name": "Cinema Exemplo (fictício)",
+          "enabled": true,
+          "blockMessage": "",
+          "rooms": [
+            {
+              "name": "Sala Exemplo",
+              "sessions": [
+                {
+                  "id": "fixture-0-0",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-24T10:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-24T10:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-0-0"
+                },
+                {
+                  "id": "fixture-0-1",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-24T10:15:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-24T10:15:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-0-1"
+                },
+                {
+                  "id": "fixture-0-2",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-24T10:30:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-24T10:30:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-0-2"
+                },
+                {
+                  "id": "fixture-0-3",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-24T10:45:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-24T10:45:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-0-3"
+                },
+                {
+                  "id": "fixture-0-4",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-24T11:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-24T11:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-0-4"
+                },
+                {
+                  "id": "fixture-0-5",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-24T11:15:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-24T11:15:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-0-5"
+                },
+                {
+                  "id": "fixture-0-6",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-24T11:30:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-24T11:30:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-0-6"
+                },
+                {
+                  "id": "fixture-0-7",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-24T11:45:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-24T11:45:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-0-7"
+                },
+                {
+                  "id": "fixture-0-8",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-24T12:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-24T12:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-0-8"
+                },
+                {
+                  "id": "fixture-0-9",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-24T12:15:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-24T12:15:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-0-9"
+                },
+                {
+                  "id": "fixture-0-10",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-24T12:30:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-24T12:30:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-0-10"
+                },
+                {
+                  "id": "fixture-0-11",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-24T12:45:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-24T12:45:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-0-11"
+                },
+                {
+                  "id": "fixture-0-12",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-24T13:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-24T13:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-0-12"
+                },
+                {
+                  "id": "fixture-0-13",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-24T13:15:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-24T13:15:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-0-13"
+                },
+                {
+                  "id": "fixture-0-14",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-24T13:30:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-24T13:30:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-0-14"
+                },
+                {
+                  "id": "fixture-0-15",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-24T13:45:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-24T13:45:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-0-15"
+                },
+                {
+                  "id": "fixture-0-16",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-24T14:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-24T14:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-0-16"
+                },
+                {
+                  "id": "fixture-0-17",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-24T14:15:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-24T14:15:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-0-17"
+                },
+                {
+                  "id": "fixture-0-18",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-24T14:30:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-24T14:30:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-0-18"
+                },
+                {
+                  "id": "fixture-0-19",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-24T14:45:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-24T14:45:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-0-19"
+                },
+                {
+                  "id": "fixture-0-20",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-24T15:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-24T15:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-0-20"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "theaters": [
+        {
+          "id": "cinema-exemplo",
+          "name": "Cinema Exemplo (fictício)",
+          "enabled": true,
+          "blockMessage": "",
+          "rooms": [
+            {
+              "name": "Sala Exemplo",
+              "sessions": [
+                {
+                  "id": "fixture-1-0",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-25T10:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-25T10:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-1-0"
+                },
+                {
+                  "id": "fixture-1-1",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-25T10:15:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-25T10:15:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-1-1"
+                },
+                {
+                  "id": "fixture-1-2",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-25T10:30:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-25T10:30:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-1-2"
+                },
+                {
+                  "id": "fixture-1-3",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-25T10:45:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-25T10:45:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-1-3"
+                },
+                {
+                  "id": "fixture-1-4",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-25T11:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-25T11:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-1-4"
+                },
+                {
+                  "id": "fixture-1-5",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-25T11:15:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-25T11:15:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-1-5"
+                },
+                {
+                  "id": "fixture-1-6",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-25T11:30:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-25T11:30:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-1-6"
+                },
+                {
+                  "id": "fixture-1-7",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-25T11:45:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-25T11:45:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-1-7"
+                },
+                {
+                  "id": "fixture-1-8",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-25T12:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-25T12:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-1-8"
+                },
+                {
+                  "id": "fixture-1-9",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-25T12:15:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-25T12:15:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-1-9"
+                },
+                {
+                  "id": "fixture-1-10",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-25T12:30:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-25T12:30:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-1-10"
+                },
+                {
+                  "id": "fixture-1-11",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-25T12:45:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-25T12:45:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-1-11"
+                },
+                {
+                  "id": "fixture-1-12",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-25T13:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-25T13:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-1-12"
+                },
+                {
+                  "id": "fixture-1-13",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-25T13:15:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-25T13:15:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-1-13"
+                },
+                {
+                  "id": "fixture-1-14",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-25T13:30:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-25T13:30:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-1-14"
+                },
+                {
+                  "id": "fixture-1-15",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-25T13:45:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-25T13:45:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-1-15"
+                },
+                {
+                  "id": "fixture-1-16",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-25T14:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-25T14:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-1-16"
+                },
+                {
+                  "id": "fixture-1-17",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-25T14:15:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-25T14:15:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-1-17"
+                },
+                {
+                  "id": "fixture-1-18",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-25T14:30:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-25T14:30:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-1-18"
+                },
+                {
+                  "id": "fixture-1-19",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-25T14:45:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-25T14:45:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-1-19"
+                },
+                {
+                  "id": "fixture-1-20",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-25T15:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-25T15:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-1-20"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "theaters": [
+        {
+          "id": "cinema-exemplo",
+          "name": "Cinema Exemplo (fictício)",
+          "enabled": true,
+          "blockMessage": "",
+          "rooms": [
+            {
+              "name": "Sala Exemplo",
+              "sessions": [
+                {
+                  "id": "fixture-2-0",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-26T10:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-26T10:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-2-0"
+                },
+                {
+                  "id": "fixture-2-1",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-26T10:15:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-26T10:15:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-2-1"
+                },
+                {
+                  "id": "fixture-2-2",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-26T10:30:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-26T10:30:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-2-2"
+                },
+                {
+                  "id": "fixture-2-3",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-26T10:45:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-26T10:45:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-2-3"
+                },
+                {
+                  "id": "fixture-2-4",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-26T11:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-26T11:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-2-4"
+                },
+                {
+                  "id": "fixture-2-5",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-26T11:15:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-26T11:15:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-2-5"
+                },
+                {
+                  "id": "fixture-2-6",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-26T11:30:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-26T11:30:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-2-6"
+                },
+                {
+                  "id": "fixture-2-7",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-26T11:45:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-26T11:45:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-2-7"
+                },
+                {
+                  "id": "fixture-2-8",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-26T12:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-26T12:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-2-8"
+                },
+                {
+                  "id": "fixture-2-9",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-26T12:15:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-26T12:15:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-2-9"
+                },
+                {
+                  "id": "fixture-2-10",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-26T12:30:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-26T12:30:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-2-10"
+                },
+                {
+                  "id": "fixture-2-11",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-26T12:45:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-26T12:45:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-2-11"
+                },
+                {
+                  "id": "fixture-2-12",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-26T13:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-26T13:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-2-12"
+                },
+                {
+                  "id": "fixture-2-13",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-26T13:15:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-26T13:15:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-2-13"
+                },
+                {
+                  "id": "fixture-2-14",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-26T13:30:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-26T13:30:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-2-14"
+                },
+                {
+                  "id": "fixture-2-15",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-26T13:45:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-26T13:45:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-2-15"
+                },
+                {
+                  "id": "fixture-2-16",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-26T14:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-26T14:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-2-16"
+                },
+                {
+                  "id": "fixture-2-17",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-26T14:15:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-26T14:15:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-2-17"
+                },
+                {
+                  "id": "fixture-2-18",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-26T14:30:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-26T14:30:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-2-18"
+                },
+                {
+                  "id": "fixture-2-19",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-26T14:45:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-26T14:45:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-2-19"
+                },
+                {
+                  "id": "fixture-2-20",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-26T15:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-26T15:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-2-20"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "theaters": [
+        {
+          "id": "cinema-exemplo",
+          "name": "Cinema Exemplo (fictício)",
+          "enabled": true,
+          "blockMessage": "",
+          "rooms": [
+            {
+              "name": "Sala Exemplo",
+              "sessions": [
+                {
+                  "id": "fixture-3-0",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-27T10:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-27T10:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-3-0"
+                },
+                {
+                  "id": "fixture-3-1",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-27T10:15:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-27T10:15:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-3-1"
+                },
+                {
+                  "id": "fixture-3-2",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-27T10:30:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-27T10:30:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-3-2"
+                },
+                {
+                  "id": "fixture-3-3",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-27T10:45:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-27T10:45:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-3-3"
+                },
+                {
+                  "id": "fixture-3-4",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-27T11:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-27T11:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-3-4"
+                },
+                {
+                  "id": "fixture-3-5",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-27T11:15:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-27T11:15:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-3-5"
+                },
+                {
+                  "id": "fixture-3-6",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-27T11:30:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-27T11:30:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-3-6"
+                },
+                {
+                  "id": "fixture-3-7",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-27T11:45:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-27T11:45:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-3-7"
+                },
+                {
+                  "id": "fixture-3-8",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-27T12:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-27T12:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-3-8"
+                },
+                {
+                  "id": "fixture-3-9",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-27T12:15:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-27T12:15:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-3-9"
+                },
+                {
+                  "id": "fixture-3-10",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-27T12:30:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-27T12:30:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-3-10"
+                },
+                {
+                  "id": "fixture-3-11",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-27T12:45:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-27T12:45:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-3-11"
+                },
+                {
+                  "id": "fixture-3-12",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-27T13:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-27T13:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-3-12"
+                },
+                {
+                  "id": "fixture-3-13",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-27T13:15:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-27T13:15:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-3-13"
+                },
+                {
+                  "id": "fixture-3-14",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-27T13:30:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-27T13:30:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-3-14"
+                },
+                {
+                  "id": "fixture-3-15",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-27T13:45:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-27T13:45:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-3-15"
+                },
+                {
+                  "id": "fixture-3-16",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-27T14:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-27T14:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-3-16"
+                },
+                {
+                  "id": "fixture-3-17",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-27T14:15:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-27T14:15:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-3-17"
+                },
+                {
+                  "id": "fixture-3-18",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-27T14:30:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-27T14:30:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-3-18"
+                },
+                {
+                  "id": "fixture-3-19",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-27T14:45:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-27T14:45:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-3-19"
+                },
+                {
+                  "id": "fixture-3-20",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-27T15:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-27T15:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-3-20"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "theaters": [
+        {
+          "id": "cinema-exemplo",
+          "name": "Cinema Exemplo (fictício)",
+          "enabled": true,
+          "blockMessage": "",
+          "rooms": [
+            {
+              "name": "Sala Exemplo",
+              "sessions": [
+                {
+                  "id": "fixture-4-0",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-28T10:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-28T10:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-4-0"
+                },
+                {
+                  "id": "fixture-4-1",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-28T10:15:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-28T10:15:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-4-1"
+                },
+                {
+                  "id": "fixture-4-2",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-28T10:30:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-28T10:30:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-4-2"
+                },
+                {
+                  "id": "fixture-4-3",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-28T10:45:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-28T10:45:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-4-3"
+                },
+                {
+                  "id": "fixture-4-4",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-28T11:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-28T11:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-4-4"
+                },
+                {
+                  "id": "fixture-4-5",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-28T11:15:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-28T11:15:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-4-5"
+                },
+                {
+                  "id": "fixture-4-6",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-28T11:30:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-28T11:30:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-4-6"
+                },
+                {
+                  "id": "fixture-4-7",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-28T11:45:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-28T11:45:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-4-7"
+                },
+                {
+                  "id": "fixture-4-8",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-28T12:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-28T12:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-4-8"
+                },
+                {
+                  "id": "fixture-4-9",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-28T12:15:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-28T12:15:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-4-9"
+                },
+                {
+                  "id": "fixture-4-10",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-28T12:30:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-28T12:30:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-4-10"
+                },
+                {
+                  "id": "fixture-4-11",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-28T12:45:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-28T12:45:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-4-11"
+                },
+                {
+                  "id": "fixture-4-12",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-28T13:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-28T13:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-4-12"
+                },
+                {
+                  "id": "fixture-4-13",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-28T13:15:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-28T13:15:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-4-13"
+                },
+                {
+                  "id": "fixture-4-14",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-28T13:30:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-28T13:30:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-4-14"
+                },
+                {
+                  "id": "fixture-4-15",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-28T13:45:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-28T13:45:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-4-15"
+                },
+                {
+                  "id": "fixture-4-16",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-28T14:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-28T14:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-4-16"
+                },
+                {
+                  "id": "fixture-4-17",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-28T14:15:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-28T14:15:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-4-17"
+                },
+                {
+                  "id": "fixture-4-18",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-28T14:30:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-28T14:30:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-4-18"
+                },
+                {
+                  "id": "fixture-4-19",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-28T14:45:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-28T14:45:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-4-19"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-29",
+      "theaters": [
+        {
+          "id": "cinema-exemplo",
+          "name": "Cinema Exemplo (fictício)",
+          "enabled": true,
+          "blockMessage": "",
+          "rooms": [
+            {
+              "name": "Sala Exemplo",
+              "sessions": [
+                {
+                  "id": "fixture-5-0",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-29T10:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-29T10:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-5-0"
+                },
+                {
+                  "id": "fixture-5-1",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-29T10:15:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-29T10:15:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-5-1"
+                },
+                {
+                  "id": "fixture-5-2",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-29T10:30:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-29T10:30:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-5-2"
+                },
+                {
+                  "id": "fixture-5-3",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-29T10:45:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-29T10:45:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-5-3"
+                },
+                {
+                  "id": "fixture-5-4",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-29T11:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-29T11:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-5-4"
+                },
+                {
+                  "id": "fixture-5-5",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-29T11:15:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-29T11:15:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-5-5"
+                },
+                {
+                  "id": "fixture-5-6",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-29T11:30:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-29T11:30:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-5-6"
+                },
+                {
+                  "id": "fixture-5-7",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-29T11:45:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-29T11:45:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-5-7"
+                },
+                {
+                  "id": "fixture-5-8",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-29T12:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-29T12:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-5-8"
+                },
+                {
+                  "id": "fixture-5-9",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-29T12:15:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-29T12:15:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-5-9"
+                },
+                {
+                  "id": "fixture-5-10",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-29T12:30:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-29T12:30:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-5-10"
+                },
+                {
+                  "id": "fixture-5-11",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-29T12:45:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-29T12:45:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-5-11"
+                },
+                {
+                  "id": "fixture-5-12",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-29T13:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-29T13:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-5-12"
+                },
+                {
+                  "id": "fixture-5-13",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-29T13:15:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-29T13:15:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-5-13"
+                },
+                {
+                  "id": "fixture-5-14",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-29T13:30:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-29T13:30:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-5-14"
+                },
+                {
+                  "id": "fixture-5-15",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-29T13:45:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-29T13:45:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-5-15"
+                },
+                {
+                  "id": "fixture-5-16",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-29T14:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-29T14:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-5-16"
+                },
+                {
+                  "id": "fixture-5-17",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-29T14:15:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-29T14:15:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-5-17"
+                },
+                {
+                  "id": "fixture-5-18",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-29T14:30:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-29T14:30:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-5-18"
+                },
+                {
+                  "id": "fixture-5-19",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-29T14:45:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-29T14:45:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-5-19"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "theaters": [
+        {
+          "id": "cinema-exemplo",
+          "name": "Cinema Exemplo (fictício)",
+          "enabled": true,
+          "blockMessage": "",
+          "rooms": [
+            {
+              "name": "Sala Exemplo",
+              "sessions": [
+                {
+                  "id": "fixture-6-0",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-30T10:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-30T10:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-6-0"
+                },
+                {
+                  "id": "fixture-6-1",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-30T10:15:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-30T10:15:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-6-1"
+                },
+                {
+                  "id": "fixture-6-2",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-30T10:30:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-30T10:30:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-6-2"
+                },
+                {
+                  "id": "fixture-6-3",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-30T10:45:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-30T10:45:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-6-3"
+                },
+                {
+                  "id": "fixture-6-4",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-30T11:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-30T11:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-6-4"
+                },
+                {
+                  "id": "fixture-6-5",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-30T11:15:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-30T11:15:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-6-5"
+                },
+                {
+                  "id": "fixture-6-6",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-30T11:30:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-30T11:30:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-6-6"
+                },
+                {
+                  "id": "fixture-6-7",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-30T11:45:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-30T11:45:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-6-7"
+                },
+                {
+                  "id": "fixture-6-8",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-30T12:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-30T12:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-6-8"
+                },
+                {
+                  "id": "fixture-6-9",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-30T12:15:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-30T12:15:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-6-9"
+                },
+                {
+                  "id": "fixture-6-10",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-30T12:30:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-30T12:30:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-6-10"
+                },
+                {
+                  "id": "fixture-6-11",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-30T12:45:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-30T12:45:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-6-11"
+                },
+                {
+                  "id": "fixture-6-12",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-30T13:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-30T13:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-6-12"
+                },
+                {
+                  "id": "fixture-6-13",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-30T13:15:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-30T13:15:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-6-13"
+                },
+                {
+                  "id": "fixture-6-14",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-30T13:30:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-30T13:30:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-6-14"
+                },
+                {
+                  "id": "fixture-6-15",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-30T13:45:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-30T13:45:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-6-15"
+                },
+                {
+                  "id": "fixture-6-16",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-30T14:00:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-30T14:00:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-6-16"
+                },
+                {
+                  "id": "fixture-6-17",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-30T14:15:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-30T14:15:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-6-17"
+                },
+                {
+                  "id": "fixture-6-18",
+                  "type": [
+                    "Normal",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-30T14:30:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-30T14:30:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-6-18"
+                },
+                {
+                  "id": "fixture-6-19",
+                  "type": [
+                    "Normal",
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "realDate": {
+                    "localDate": "2026-09-30T14:45:00-03:00"
+                  },
+                  "date": {
+                    "localDate": "2026-09-30T14:45:00-03:00"
+                  },
+                  "enabled": true,
+                  "blockMessage": "",
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=fixture-6-19"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1372 @@
+[
+  {
+    "id": "fixture-0-0",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-24T10:00:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-0-1",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-24T10:15:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-0-2",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-24T10:30:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-0-3",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-24T10:45:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-0-4",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-24T11:00:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-0-5",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-24T11:15:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-0-6",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-24T11:30:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-0-7",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-24T11:45:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-0-8",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-24T12:00:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-0-9",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-24T12:15:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-0-10",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-24T12:30:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-0-11",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-24T12:45:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-0-12",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-24T13:00:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-0-13",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-24T13:15:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-0-14",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-24T13:30:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-0-15",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-24T13:45:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-0-16",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-24T14:00:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-0-17",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-24T14:15:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-0-18",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-24T14:30:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-0-19",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-24T14:45:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-1-0",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-25T10:00:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-1-1",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-25T10:15:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-1-2",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-25T10:30:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-1-3",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-25T10:45:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-1-4",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-25T11:00:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-1-5",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-25T11:15:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-1-6",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-25T11:30:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-1-7",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-25T11:45:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-1-8",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-25T12:00:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-1-9",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-25T12:15:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-1-10",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-25T12:30:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-1-11",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-25T12:45:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-1-12",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-25T13:00:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-1-13",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-25T13:15:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-1-14",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-25T13:30:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-1-15",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-25T13:45:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-1-16",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-25T14:00:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-1-17",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-25T14:15:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-1-18",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-25T14:30:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-1-19",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-25T14:45:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-2-0",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-26T10:00:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-2-1",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-26T10:15:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-2-2",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-26T10:30:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-2-3",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-26T10:45:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-2-4",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-26T11:00:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-2-5",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-26T11:15:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-2-6",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-26T11:30:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-2-7",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-26T11:45:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-2-8",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-26T12:00:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-2-9",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-26T12:15:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-2-10",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-26T12:30:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-2-11",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-26T12:45:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-2-12",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-26T13:00:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-2-13",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-26T13:15:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-2-14",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-26T13:30:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-2-15",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-26T13:45:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-2-16",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-26T14:00:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-2-17",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-26T14:15:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-2-18",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-26T14:30:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-2-19",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-26T14:45:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-3-0",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-27T10:00:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-3-1",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-27T10:15:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-3-2",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-27T10:30:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-3-3",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-27T10:45:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-3-4",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-27T11:00:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-3-5",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-27T11:15:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-3-6",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-27T11:30:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-3-7",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-27T11:45:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-3-8",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-27T12:00:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-3-9",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-27T12:15:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-3-10",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-27T12:30:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-3-11",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-27T12:45:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-3-12",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-27T13:00:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-3-13",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-27T13:15:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-3-14",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-27T13:30:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-3-15",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-27T13:45:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-3-16",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-27T14:00:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-3-17",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-27T14:15:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-3-18",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-27T14:30:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-3-19",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-27T14:45:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-4-0",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-28T10:00:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-4-1",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-28T10:15:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-4-2",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-28T10:30:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-4-3",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-28T10:45:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-4-4",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-28T11:00:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-4-5",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-28T11:15:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-4-6",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-28T11:30:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-4-7",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-28T11:45:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-4-8",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-28T12:00:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-4-9",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-28T12:15:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-4-10",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-28T12:30:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-4-11",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-28T12:45:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-4-12",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-28T13:00:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-4-13",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-28T13:15:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-4-14",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-28T13:30:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-4-15",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-28T13:45:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-4-16",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-28T14:00:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-4-17",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-28T14:15:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-4-18",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-28T14:30:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-5-0",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-29T10:00:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-5-1",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-29T10:15:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-5-2",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-29T10:30:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-5-3",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-29T10:45:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-5-4",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-29T11:00:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-5-5",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-29T11:15:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-5-6",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-29T11:30:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-5-7",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-29T11:45:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-5-8",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-29T12:00:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-5-9",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-29T12:15:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-5-10",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-29T12:30:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-5-11",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-29T12:45:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-5-12",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-29T13:00:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-5-13",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-29T13:15:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-5-14",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-29T13:30:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-5-15",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-29T13:45:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-5-16",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-29T14:00:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-5-17",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-29T14:15:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-5-18",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-29T14:30:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-6-0",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-30T10:00:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-6-1",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-30T10:15:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-6-2",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-30T10:30:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-6-3",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-30T10:45:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-6-4",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-30T11:00:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-6-5",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-30T11:15:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-6-6",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-30T11:30:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-6-7",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-30T11:45:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-6-8",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-30T12:00:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-6-9",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-30T12:15:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-6-10",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-30T12:30:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-6-11",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-30T12:45:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-6-12",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-30T13:00:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-6-13",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-30T13:15:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-6-14",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-30T13:30:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-6-15",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-30T13:45:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-6-16",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-30T14:00:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  },
+  {
+    "id": "fixture-6-17",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-30T14:15:00-03:00",
+    "labels": [
+      "Normal",
+      "IMAX",
+      "Legendado"
+    ]
+  },
+  {
+    "id": "fixture-6-18",
+    "theater": "Cinema Exemplo (fictício)",
+    "startsAt": "2026-09-30T14:30:00-03:00",
+    "labels": [
+      "Normal",
+      "Infinity Vision",
+      "Dublado"
+    ]
+  }
+]

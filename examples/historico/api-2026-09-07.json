@@ -1,0 +1,4676 @@
+{
+  "source": "https://api-content.ingresso.com/v0/sessions/city/14/event/32174",
+  "checkedAt": "2026-09-07T22:07:31.0159974-03:00",
+  "status": 200,
+  "historical": true,
+  "notice": "Captura de 07/09/2026 com campos selecionados e URLs reduzidas ao ID da sessao.",
+  "data": [
+    {
+      "date": "2026-09-24",
+      "theaters": [
+        {
+          "id": "1061",
+          "name": "Cine Araújo Multiplex Parque Das Bandeiras",
+          "enabled": true,
+          "blockMessage": "",
+          "rooms": [
+            {
+              "name": "Sala 1 - MAX SCREEN LASER",
+              "sessions": [
+                {
+                  "id": "86524564",
+                  "type": [
+                    "Telas Gigantes/PLF",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Telas Gigantes/PLF",
+                      "display": true
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-24T13:25:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-24T13:25:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86524564"
+                },
+                {
+                  "id": "86524651",
+                  "type": [
+                    "Telas Gigantes/PLF",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Telas Gigantes/PLF",
+                      "display": true
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-24T17:00:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-24T17:00:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86524651"
+                },
+                {
+                  "id": "86523342",
+                  "type": [
+                    "Telas Gigantes/PLF",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Telas Gigantes/PLF",
+                      "display": true
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-24T20:35:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-24T20:35:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86523342"
+                }
+              ]
+            },
+            {
+              "name": "Sala 3 - VIP",
+              "sessions": [
+                {
+                  "id": "86626260",
+                  "type": [
+                    "Vip",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-24T21:00:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-24T21:00:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86626260"
+                }
+              ]
+            },
+            {
+              "name": "Sala 5",
+              "sessions": [
+                {
+                  "id": "86524297",
+                  "type": [
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-24T16:00:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-24T16:00:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86524297"
+                },
+                {
+                  "id": "86523962",
+                  "type": [
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-24T19:35:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-24T19:35:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86523962"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "135",
+          "name": "Cinemark Shopping Iguatemi Campinas",
+          "enabled": true,
+          "blockMessage": "",
+          "rooms": [
+            {
+              "name": "Sala 5",
+              "sessions": [
+                {
+                  "id": "86757256",
+                  "type": [
+                    "D-Box",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "D-Box",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-24T21:30:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-24T21:30:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86757256"
+                }
+              ]
+            },
+            {
+              "name": "Sala 6",
+              "sessions": [
+                {
+                  "id": "86522159",
+                  "type": [
+                    "3D",
+                    "XD",
+                    "D-Box",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "3D",
+                      "display": true
+                    },
+                    {
+                      "name": "XD",
+                      "display": true
+                    },
+                    {
+                      "name": "D-Box",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-24T16:10:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-24T16:10:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86522159"
+                }
+              ]
+            },
+            {
+              "name": "Sala 6",
+              "sessions": [
+                {
+                  "id": "86522157",
+                  "type": [
+                    "XD",
+                    "D-Box",
+                    "Legendado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "XD",
+                      "display": true
+                    },
+                    {
+                      "name": "D-Box",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-24T20:00:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-24T20:00:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86522157"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1057",
+          "name": "Cinépolis Campinas Shopping",
+          "enabled": true,
+          "blockMessage": "Infelizmente estamos sem comunicação com o local.",
+          "rooms": [
+            {
+              "name": "Sala 1",
+              "sessions": [
+                {
+                  "id": "86667975",
+                  "type": [
+                    "Normal",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-24T14:15:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-24T14:15:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86667975"
+                },
+                {
+                  "id": "86667513",
+                  "type": [
+                    "Normal",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-24T21:45:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-24T21:45:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86667513"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1524",
+          "name": "Cinépolis Shopping Galleria Campinas",
+          "enabled": true,
+          "blockMessage": "",
+          "rooms": [
+            {
+              "name": "Sala 1",
+              "sessions": [
+                {
+                  "id": "86675938",
+                  "type": [
+                    "Normal",
+                    "Vip",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-24T14:15:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-24T14:15:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86675938"
+                },
+                {
+                  "id": "86678244",
+                  "type": [
+                    "Normal",
+                    "Vip",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-24T18:00:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-24T18:00:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86678244"
+                }
+              ]
+            },
+            {
+              "name": "Sala 1",
+              "sessions": [
+                {
+                  "id": "86682952",
+                  "type": [
+                    "3D",
+                    "Vip",
+                    "Legendado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "3D",
+                      "display": true
+                    },
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-24T21:45:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-24T21:45:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86682952"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "136",
+          "name": "Kinoplex Dom Pedro",
+          "enabled": true,
+          "blockMessage": "",
+          "rooms": [
+            {
+              "name": "Sala 10",
+              "sessions": [
+                {
+                  "id": "86663868",
+                  "type": [
+                    "Vip",
+                    "Legendado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-24T16:10:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-24T16:10:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86663868"
+                },
+                {
+                  "id": "86660510",
+                  "type": [
+                    "Vip",
+                    "Legendado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-24T19:50:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-24T19:50:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86660510"
+                }
+              ]
+            },
+            {
+              "name": "Sala 12",
+              "sessions": [
+                {
+                  "id": "86651639",
+                  "type": [
+                    "3D",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "3D",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-24T16:30:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-24T16:30:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86651639"
+                },
+                {
+                  "id": "86651911",
+                  "type": [
+                    "3D",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "3D",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-24T20:10:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-24T20:10:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86651911"
+                }
+              ]
+            },
+            {
+              "name": "Sala 7",
+              "sessions": [
+                {
+                  "id": "86538504",
+                  "type": [
+                    "IMAX",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-24T16:50:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-24T16:50:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86538504"
+                }
+              ]
+            },
+            {
+              "name": "Sala 7",
+              "sessions": [
+                {
+                  "id": "86538471",
+                  "type": [
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-24T20:30:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-24T20:30:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86538471"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "theaters": [
+        {
+          "id": "1061",
+          "name": "Cine Araújo Multiplex Parque Das Bandeiras",
+          "enabled": true,
+          "blockMessage": "",
+          "rooms": [
+            {
+              "name": "Sala 1 - MAX SCREEN LASER",
+              "sessions": [
+                {
+                  "id": "86523972",
+                  "type": [
+                    "Telas Gigantes/PLF",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Telas Gigantes/PLF",
+                      "display": true
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-25T13:25:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-25T13:25:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86523972"
+                },
+                {
+                  "id": "86523344",
+                  "type": [
+                    "Telas Gigantes/PLF",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Telas Gigantes/PLF",
+                      "display": true
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-25T17:00:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-25T17:00:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86523344"
+                },
+                {
+                  "id": "86523967",
+                  "type": [
+                    "Telas Gigantes/PLF",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Telas Gigantes/PLF",
+                      "display": true
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-25T20:35:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-25T20:35:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86523967"
+                }
+              ]
+            },
+            {
+              "name": "Sala 3 - VIP",
+              "sessions": [
+                {
+                  "id": "86626189",
+                  "type": [
+                    "Vip",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-25T21:00:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-25T21:00:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86626189"
+                }
+              ]
+            },
+            {
+              "name": "Sala 5",
+              "sessions": [
+                {
+                  "id": "86523206",
+                  "type": [
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-25T16:00:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-25T16:00:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86523206"
+                },
+                {
+                  "id": "86523241",
+                  "type": [
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-25T19:35:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-25T19:35:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86523241"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "135",
+          "name": "Cinemark Shopping Iguatemi Campinas",
+          "enabled": true,
+          "blockMessage": "",
+          "rooms": [
+            {
+              "name": "Sala 5",
+              "sessions": [
+                {
+                  "id": "86757401",
+                  "type": [
+                    "D-Box",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "D-Box",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-25T21:30:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-25T21:30:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86757401"
+                }
+              ]
+            },
+            {
+              "name": "Sala 6",
+              "sessions": [
+                {
+                  "id": "86522155",
+                  "type": [
+                    "3D",
+                    "XD",
+                    "D-Box",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "3D",
+                      "display": true
+                    },
+                    {
+                      "name": "XD",
+                      "display": true
+                    },
+                    {
+                      "name": "D-Box",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-25T16:10:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-25T16:10:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86522155"
+                }
+              ]
+            },
+            {
+              "name": "Sala 6",
+              "sessions": [
+                {
+                  "id": "86522158",
+                  "type": [
+                    "XD",
+                    "D-Box",
+                    "Legendado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "XD",
+                      "display": true
+                    },
+                    {
+                      "name": "D-Box",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-25T20:00:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-25T20:00:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86522158"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1057",
+          "name": "Cinépolis Campinas Shopping",
+          "enabled": true,
+          "blockMessage": "Infelizmente estamos sem comunicação com o local.",
+          "rooms": [
+            {
+              "name": "Sala 1",
+              "sessions": [
+                {
+                  "id": "86666706",
+                  "type": [
+                    "Normal",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-25T14:15:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-25T14:15:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86666706"
+                },
+                {
+                  "id": "86668234",
+                  "type": [
+                    "Normal",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-25T21:45:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-25T21:45:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86668234"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1524",
+          "name": "Cinépolis Shopping Galleria Campinas",
+          "enabled": true,
+          "blockMessage": "",
+          "rooms": [
+            {
+              "name": "Sala 1",
+              "sessions": [
+                {
+                  "id": "86678245",
+                  "type": [
+                    "Normal",
+                    "Vip",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-25T14:15:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-25T14:15:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86678245"
+                },
+                {
+                  "id": "86678252",
+                  "type": [
+                    "Normal",
+                    "Vip",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-25T18:00:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-25T18:00:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86678252"
+                }
+              ]
+            },
+            {
+              "name": "Sala 1",
+              "sessions": [
+                {
+                  "id": "86683905",
+                  "type": [
+                    "3D",
+                    "Vip",
+                    "Legendado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "3D",
+                      "display": true
+                    },
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-25T21:45:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-25T21:45:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86683905"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "136",
+          "name": "Kinoplex Dom Pedro",
+          "enabled": true,
+          "blockMessage": "",
+          "rooms": [
+            {
+              "name": "Sala 10",
+              "sessions": [
+                {
+                  "id": "86660399",
+                  "type": [
+                    "Vip",
+                    "Legendado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-25T16:10:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-25T16:10:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86660399"
+                },
+                {
+                  "id": "86660611",
+                  "type": [
+                    "Vip",
+                    "Legendado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-25T19:50:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-25T19:50:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86660611"
+                }
+              ]
+            },
+            {
+              "name": "Sala 12",
+              "sessions": [
+                {
+                  "id": "86652085",
+                  "type": [
+                    "3D",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "3D",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-25T16:30:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-25T16:30:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86652085"
+                },
+                {
+                  "id": "86651641",
+                  "type": [
+                    "3D",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "3D",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-25T20:10:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-25T20:10:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86651641"
+                }
+              ]
+            },
+            {
+              "name": "Sala 7",
+              "sessions": [
+                {
+                  "id": "86538469",
+                  "type": [
+                    "IMAX",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-25T16:50:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-25T16:50:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86538469"
+                }
+              ]
+            },
+            {
+              "name": "Sala 7",
+              "sessions": [
+                {
+                  "id": "86538505",
+                  "type": [
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-25T20:30:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-25T20:30:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86538505"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "theaters": [
+        {
+          "id": "1061",
+          "name": "Cine Araújo Multiplex Parque Das Bandeiras",
+          "enabled": true,
+          "blockMessage": "",
+          "rooms": [
+            {
+              "name": "Sala 1 - MAX SCREEN LASER",
+              "sessions": [
+                {
+                  "id": "86523999",
+                  "type": [
+                    "Telas Gigantes/PLF",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Telas Gigantes/PLF",
+                      "display": true
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-26T13:25:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-26T13:25:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86523999"
+                },
+                {
+                  "id": "86523221",
+                  "type": [
+                    "Telas Gigantes/PLF",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Telas Gigantes/PLF",
+                      "display": true
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-26T17:00:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-26T17:00:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86523221"
+                },
+                {
+                  "id": "86523981",
+                  "type": [
+                    "Telas Gigantes/PLF",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Telas Gigantes/PLF",
+                      "display": true
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-26T20:35:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-26T20:35:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86523981"
+                }
+              ]
+            },
+            {
+              "name": "Sala 3 - VIP",
+              "sessions": [
+                {
+                  "id": "86626433",
+                  "type": [
+                    "Vip",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-26T21:00:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-26T21:00:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86626433"
+                }
+              ]
+            },
+            {
+              "name": "Sala 5",
+              "sessions": [
+                {
+                  "id": "86523319",
+                  "type": [
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-26T16:00:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-26T16:00:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86523319"
+                },
+                {
+                  "id": "86523234",
+                  "type": [
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-26T19:35:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-26T19:35:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86523234"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "135",
+          "name": "Cinemark Shopping Iguatemi Campinas",
+          "enabled": true,
+          "blockMessage": "",
+          "rooms": [
+            {
+              "name": "Sala 5",
+              "sessions": [
+                {
+                  "id": "86757263",
+                  "type": [
+                    "D-Box",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "D-Box",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-26T21:30:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-26T21:30:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86757263"
+                }
+              ]
+            },
+            {
+              "name": "Sala 6",
+              "sessions": [
+                {
+                  "id": "86522161",
+                  "type": [
+                    "3D",
+                    "XD",
+                    "D-Box",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "3D",
+                      "display": true
+                    },
+                    {
+                      "name": "XD",
+                      "display": true
+                    },
+                    {
+                      "name": "D-Box",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-26T16:10:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-26T16:10:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86522161"
+                }
+              ]
+            },
+            {
+              "name": "Sala 6",
+              "sessions": [
+                {
+                  "id": "86522418",
+                  "type": [
+                    "XD",
+                    "D-Box",
+                    "Legendado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "XD",
+                      "display": true
+                    },
+                    {
+                      "name": "D-Box",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-26T20:00:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-26T20:00:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86522418"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1057",
+          "name": "Cinépolis Campinas Shopping",
+          "enabled": true,
+          "blockMessage": "Infelizmente estamos sem comunicação com o local.",
+          "rooms": [
+            {
+              "name": "Sala 1",
+              "sessions": [
+                {
+                  "id": "86662519",
+                  "type": [
+                    "Normal",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-26T14:15:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-26T14:15:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86662519"
+                },
+                {
+                  "id": "86666372",
+                  "type": [
+                    "Normal",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-26T21:45:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-26T21:45:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86666372"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1524",
+          "name": "Cinépolis Shopping Galleria Campinas",
+          "enabled": true,
+          "blockMessage": "",
+          "rooms": [
+            {
+              "name": "Sala 1",
+              "sessions": [
+                {
+                  "id": "86678246",
+                  "type": [
+                    "Normal",
+                    "Vip",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-26T14:15:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-26T14:15:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86678246"
+                },
+                {
+                  "id": "86675937",
+                  "type": [
+                    "Normal",
+                    "Vip",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-26T18:00:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-26T18:00:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86675937"
+                }
+              ]
+            },
+            {
+              "name": "Sala 1",
+              "sessions": [
+                {
+                  "id": "86682951",
+                  "type": [
+                    "3D",
+                    "Vip",
+                    "Legendado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "3D",
+                      "display": true
+                    },
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-26T21:45:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-26T21:45:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86682951"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "136",
+          "name": "Kinoplex Dom Pedro",
+          "enabled": true,
+          "blockMessage": "",
+          "rooms": [
+            {
+              "name": "Sala 10",
+              "sessions": [
+                {
+                  "id": "86663859",
+                  "type": [
+                    "Vip",
+                    "Legendado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-26T16:10:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-26T16:10:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86663859"
+                },
+                {
+                  "id": "86667231",
+                  "type": [
+                    "Vip",
+                    "Legendado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-26T19:50:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-26T19:50:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86667231"
+                }
+              ]
+            },
+            {
+              "name": "Sala 12",
+              "sessions": [
+                {
+                  "id": "86651647",
+                  "type": [
+                    "3D",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "3D",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-26T16:30:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-26T16:30:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86651647"
+                },
+                {
+                  "id": "86651643",
+                  "type": [
+                    "3D",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "3D",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-26T20:10:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-26T20:10:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86651643"
+                }
+              ]
+            },
+            {
+              "name": "Sala 7",
+              "sessions": [
+                {
+                  "id": "86538511",
+                  "type": [
+                    "IMAX",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-26T16:50:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-26T16:50:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86538511"
+                }
+              ]
+            },
+            {
+              "name": "Sala 7",
+              "sessions": [
+                {
+                  "id": "86538509",
+                  "type": [
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-26T20:30:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-26T20:30:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86538509"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "theaters": [
+        {
+          "id": "1061",
+          "name": "Cine Araújo Multiplex Parque Das Bandeiras",
+          "enabled": true,
+          "blockMessage": "",
+          "rooms": [
+            {
+              "name": "Sala 1 - MAX SCREEN LASER",
+              "sessions": [
+                {
+                  "id": "86524301",
+                  "type": [
+                    "Telas Gigantes/PLF",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Telas Gigantes/PLF",
+                      "display": true
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-27T13:25:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-27T13:25:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86524301"
+                },
+                {
+                  "id": "86523315",
+                  "type": [
+                    "Telas Gigantes/PLF",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Telas Gigantes/PLF",
+                      "display": true
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-27T17:00:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-27T17:00:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86523315"
+                },
+                {
+                  "id": "86523901",
+                  "type": [
+                    "Telas Gigantes/PLF",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Telas Gigantes/PLF",
+                      "display": true
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-27T20:35:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-27T20:35:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86523901"
+                }
+              ]
+            },
+            {
+              "name": "Sala 3 - VIP",
+              "sessions": [
+                {
+                  "id": "86626184",
+                  "type": [
+                    "Vip",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-27T21:00:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-27T21:00:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86626184"
+                }
+              ]
+            },
+            {
+              "name": "Sala 5",
+              "sessions": [
+                {
+                  "id": "86524504",
+                  "type": [
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-27T16:00:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-27T16:00:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86524504"
+                },
+                {
+                  "id": "86523215",
+                  "type": [
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-27T19:35:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-27T19:35:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86523215"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "135",
+          "name": "Cinemark Shopping Iguatemi Campinas",
+          "enabled": true,
+          "blockMessage": "",
+          "rooms": [
+            {
+              "name": "Sala 5",
+              "sessions": [
+                {
+                  "id": "86757217",
+                  "type": [
+                    "D-Box",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "D-Box",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-27T21:30:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-27T21:30:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86757217"
+                }
+              ]
+            },
+            {
+              "name": "Sala 6",
+              "sessions": [
+                {
+                  "id": "86522160",
+                  "type": [
+                    "3D",
+                    "XD",
+                    "D-Box",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "3D",
+                      "display": true
+                    },
+                    {
+                      "name": "XD",
+                      "display": true
+                    },
+                    {
+                      "name": "D-Box",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-27T16:10:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-27T16:10:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86522160"
+                }
+              ]
+            },
+            {
+              "name": "Sala 6",
+              "sessions": [
+                {
+                  "id": "86522456",
+                  "type": [
+                    "XD",
+                    "D-Box",
+                    "Legendado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "XD",
+                      "display": true
+                    },
+                    {
+                      "name": "D-Box",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-27T20:00:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-27T20:00:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86522456"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1057",
+          "name": "Cinépolis Campinas Shopping",
+          "enabled": true,
+          "blockMessage": "Infelizmente estamos sem comunicação com o local.",
+          "rooms": [
+            {
+              "name": "Sala 1",
+              "sessions": [
+                {
+                  "id": "86658169",
+                  "type": [
+                    "Normal",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-27T14:15:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-27T14:15:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86658169"
+                },
+                {
+                  "id": "86658172",
+                  "type": [
+                    "Normal",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-27T21:45:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-27T21:45:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86658172"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1524",
+          "name": "Cinépolis Shopping Galleria Campinas",
+          "enabled": true,
+          "blockMessage": "",
+          "rooms": [
+            {
+              "name": "Sala 1",
+              "sessions": [
+                {
+                  "id": "86678251",
+                  "type": [
+                    "Normal",
+                    "Vip",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-27T14:15:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-27T14:15:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86678251"
+                },
+                {
+                  "id": "86678249",
+                  "type": [
+                    "Normal",
+                    "Vip",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-27T18:00:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-27T18:00:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86678249"
+                }
+              ]
+            },
+            {
+              "name": "Sala 1",
+              "sessions": [
+                {
+                  "id": "86682953",
+                  "type": [
+                    "3D",
+                    "Vip",
+                    "Legendado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "3D",
+                      "display": true
+                    },
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-27T21:45:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-27T21:45:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86682953"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "136",
+          "name": "Kinoplex Dom Pedro",
+          "enabled": true,
+          "blockMessage": "",
+          "rooms": [
+            {
+              "name": "Sala 10",
+              "sessions": [
+                {
+                  "id": "86668003",
+                  "type": [
+                    "Vip",
+                    "Legendado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-27T16:10:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-27T16:10:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86668003"
+                },
+                {
+                  "id": "86663847",
+                  "type": [
+                    "Vip",
+                    "Legendado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-27T19:50:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-27T19:50:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86663847"
+                }
+              ]
+            },
+            {
+              "name": "Sala 12",
+              "sessions": [
+                {
+                  "id": "86651646",
+                  "type": [
+                    "3D",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "3D",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-27T16:30:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-27T16:30:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86651646"
+                },
+                {
+                  "id": "86651645",
+                  "type": [
+                    "3D",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "3D",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-27T20:10:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-27T20:10:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86651645"
+                }
+              ]
+            },
+            {
+              "name": "Sala 7",
+              "sessions": [
+                {
+                  "id": "86538468",
+                  "type": [
+                    "IMAX",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-27T16:50:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-27T16:50:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86538468"
+                }
+              ]
+            },
+            {
+              "name": "Sala 7",
+              "sessions": [
+                {
+                  "id": "86538485",
+                  "type": [
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-27T20:30:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-27T20:30:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86538485"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "theaters": [
+        {
+          "id": "1061",
+          "name": "Cine Araújo Multiplex Parque Das Bandeiras",
+          "enabled": true,
+          "blockMessage": "",
+          "rooms": [
+            {
+              "name": "Sala 1 - MAX SCREEN LASER",
+              "sessions": [
+                {
+                  "id": "86523258",
+                  "type": [
+                    "Telas Gigantes/PLF",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Telas Gigantes/PLF",
+                      "display": true
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-28T17:00:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-28T17:00:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86523258"
+                },
+                {
+                  "id": "86524001",
+                  "type": [
+                    "Telas Gigantes/PLF",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Telas Gigantes/PLF",
+                      "display": true
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-28T20:35:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-28T20:35:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86524001"
+                }
+              ]
+            },
+            {
+              "name": "Sala 3 - VIP",
+              "sessions": [
+                {
+                  "id": "86626413",
+                  "type": [
+                    "Vip",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-28T21:00:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-28T21:00:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86626413"
+                }
+              ]
+            },
+            {
+              "name": "Sala 5",
+              "sessions": [
+                {
+                  "id": "86523369",
+                  "type": [
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-28T16:00:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-28T16:00:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86523369"
+                },
+                {
+                  "id": "86524322",
+                  "type": [
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-28T19:35:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-28T19:35:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86524322"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "135",
+          "name": "Cinemark Shopping Iguatemi Campinas",
+          "enabled": true,
+          "blockMessage": "",
+          "rooms": [
+            {
+              "name": "Sala 5",
+              "sessions": [
+                {
+                  "id": "86757282",
+                  "type": [
+                    "D-Box",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "D-Box",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-28T21:30:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-28T21:30:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86757282"
+                }
+              ]
+            },
+            {
+              "name": "Sala 6",
+              "sessions": [
+                {
+                  "id": "86522413",
+                  "type": [
+                    "3D",
+                    "XD",
+                    "D-Box",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "3D",
+                      "display": true
+                    },
+                    {
+                      "name": "XD",
+                      "display": true
+                    },
+                    {
+                      "name": "D-Box",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-28T16:10:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-28T16:10:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86522413"
+                }
+              ]
+            },
+            {
+              "name": "Sala 6",
+              "sessions": [
+                {
+                  "id": "86522401",
+                  "type": [
+                    "XD",
+                    "D-Box",
+                    "Legendado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "XD",
+                      "display": true
+                    },
+                    {
+                      "name": "D-Box",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-28T20:00:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-28T20:00:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86522401"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1057",
+          "name": "Cinépolis Campinas Shopping",
+          "enabled": true,
+          "blockMessage": "Infelizmente estamos sem comunicação com o local.",
+          "rooms": [
+            {
+              "name": "Sala 1",
+              "sessions": [
+                {
+                  "id": "86661611",
+                  "type": [
+                    "Normal",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-28T14:15:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-28T14:15:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86661611"
+                },
+                {
+                  "id": "86663450",
+                  "type": [
+                    "Normal",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-28T21:45:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-28T21:45:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86663450"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1524",
+          "name": "Cinépolis Shopping Galleria Campinas",
+          "enabled": true,
+          "blockMessage": "",
+          "rooms": [
+            {
+              "name": "Sala 1",
+              "sessions": [
+                {
+                  "id": "86678250",
+                  "type": [
+                    "Normal",
+                    "Vip",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-28T14:15:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-28T14:15:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86678250"
+                },
+                {
+                  "id": "86678248",
+                  "type": [
+                    "Normal",
+                    "Vip",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-28T18:00:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-28T18:00:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86678248"
+                }
+              ]
+            },
+            {
+              "name": "Sala 1",
+              "sessions": [
+                {
+                  "id": "86682957",
+                  "type": [
+                    "3D",
+                    "Vip",
+                    "Legendado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "3D",
+                      "display": true
+                    },
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-28T21:45:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-28T21:45:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86682957"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "136",
+          "name": "Kinoplex Dom Pedro",
+          "enabled": true,
+          "blockMessage": "",
+          "rooms": [
+            {
+              "name": "Sala 10",
+              "sessions": [
+                {
+                  "id": "86660190",
+                  "type": [
+                    "Vip",
+                    "Legendado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-28T16:10:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-28T16:10:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86660190"
+                },
+                {
+                  "id": "86665967",
+                  "type": [
+                    "Vip",
+                    "Legendado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-28T19:50:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-28T19:50:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86665967"
+                }
+              ]
+            },
+            {
+              "name": "Sala 12",
+              "sessions": [
+                {
+                  "id": "86651912",
+                  "type": [
+                    "3D",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "3D",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-28T16:30:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-28T16:30:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86651912"
+                },
+                {
+                  "id": "86651914",
+                  "type": [
+                    "3D",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "3D",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-28T20:10:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-28T20:10:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86651914"
+                }
+              ]
+            },
+            {
+              "name": "Sala 7",
+              "sessions": [
+                {
+                  "id": "86538514",
+                  "type": [
+                    "IMAX",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-28T16:50:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-28T16:50:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86538514"
+                }
+              ]
+            },
+            {
+              "name": "Sala 7",
+              "sessions": [
+                {
+                  "id": "86538510",
+                  "type": [
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-28T20:30:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-28T20:30:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86538510"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-29",
+      "theaters": [
+        {
+          "id": "1061",
+          "name": "Cine Araújo Multiplex Parque Das Bandeiras",
+          "enabled": true,
+          "blockMessage": "",
+          "rooms": [
+            {
+              "name": "Sala 1 - MAX SCREEN LASER",
+              "sessions": [
+                {
+                  "id": "86523400",
+                  "type": [
+                    "Telas Gigantes/PLF",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Telas Gigantes/PLF",
+                      "display": true
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-29T17:00:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-29T17:00:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86523400"
+                },
+                {
+                  "id": "86523225",
+                  "type": [
+                    "Telas Gigantes/PLF",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Telas Gigantes/PLF",
+                      "display": true
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-29T20:35:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-29T20:35:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86523225"
+                }
+              ]
+            },
+            {
+              "name": "Sala 3 - VIP",
+              "sessions": [
+                {
+                  "id": "86626246",
+                  "type": [
+                    "Vip",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-29T21:00:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-29T21:00:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86626246"
+                }
+              ]
+            },
+            {
+              "name": "Sala 5",
+              "sessions": [
+                {
+                  "id": "86523207",
+                  "type": [
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-29T16:00:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-29T16:00:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86523207"
+                },
+                {
+                  "id": "86523905",
+                  "type": [
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-29T19:35:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-29T19:35:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86523905"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "135",
+          "name": "Cinemark Shopping Iguatemi Campinas",
+          "enabled": true,
+          "blockMessage": "",
+          "rooms": [
+            {
+              "name": "Sala 5",
+              "sessions": [
+                {
+                  "id": "86757253",
+                  "type": [
+                    "D-Box",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "D-Box",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-29T21:30:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-29T21:30:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86757253"
+                }
+              ]
+            },
+            {
+              "name": "Sala 6",
+              "sessions": [
+                {
+                  "id": "86522426",
+                  "type": [
+                    "3D",
+                    "XD",
+                    "D-Box",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "3D",
+                      "display": true
+                    },
+                    {
+                      "name": "XD",
+                      "display": true
+                    },
+                    {
+                      "name": "D-Box",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-29T16:10:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-29T16:10:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86522426"
+                }
+              ]
+            },
+            {
+              "name": "Sala 6",
+              "sessions": [
+                {
+                  "id": "86522162",
+                  "type": [
+                    "XD",
+                    "D-Box",
+                    "Legendado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "XD",
+                      "display": true
+                    },
+                    {
+                      "name": "D-Box",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-29T20:00:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-29T20:00:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86522162"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1057",
+          "name": "Cinépolis Campinas Shopping",
+          "enabled": true,
+          "blockMessage": "Infelizmente estamos sem comunicação com o local.",
+          "rooms": [
+            {
+              "name": "Sala 1",
+              "sessions": [
+                {
+                  "id": "86665396",
+                  "type": [
+                    "Normal",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-29T14:15:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-29T14:15:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86665396"
+                },
+                {
+                  "id": "86658153",
+                  "type": [
+                    "Normal",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-29T21:45:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-29T21:45:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86658153"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1524",
+          "name": "Cinépolis Shopping Galleria Campinas",
+          "enabled": true,
+          "blockMessage": "",
+          "rooms": [
+            {
+              "name": "Sala 1",
+              "sessions": [
+                {
+                  "id": "86678247",
+                  "type": [
+                    "Normal",
+                    "Vip",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-29T14:15:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-29T14:15:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86678247"
+                },
+                {
+                  "id": "86678255",
+                  "type": [
+                    "Normal",
+                    "Vip",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-29T18:00:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-29T18:00:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86678255"
+                }
+              ]
+            },
+            {
+              "name": "Sala 1",
+              "sessions": [
+                {
+                  "id": "86682955",
+                  "type": [
+                    "3D",
+                    "Vip",
+                    "Legendado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "3D",
+                      "display": true
+                    },
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-29T21:45:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-29T21:45:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86682955"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "136",
+          "name": "Kinoplex Dom Pedro",
+          "enabled": true,
+          "blockMessage": "",
+          "rooms": [
+            {
+              "name": "Sala 10",
+              "sessions": [
+                {
+                  "id": "86660913",
+                  "type": [
+                    "Vip",
+                    "Legendado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-29T16:10:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-29T16:10:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86660913"
+                },
+                {
+                  "id": "86660610",
+                  "type": [
+                    "Vip",
+                    "Legendado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-29T19:50:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-29T19:50:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86660610"
+                }
+              ]
+            },
+            {
+              "name": "Sala 12",
+              "sessions": [
+                {
+                  "id": "86651913",
+                  "type": [
+                    "3D",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "3D",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-29T16:30:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-29T16:30:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86651913"
+                },
+                {
+                  "id": "86651648",
+                  "type": [
+                    "3D",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "3D",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-29T20:10:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-29T20:10:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86651648"
+                }
+              ]
+            },
+            {
+              "name": "Sala 7",
+              "sessions": [
+                {
+                  "id": "86538472",
+                  "type": [
+                    "IMAX",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-29T16:50:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-29T16:50:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86538472"
+                }
+              ]
+            },
+            {
+              "name": "Sala 7",
+              "sessions": [
+                {
+                  "id": "86538495",
+                  "type": [
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-29T20:30:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-29T20:30:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86538495"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "theaters": [
+        {
+          "id": "1061",
+          "name": "Cine Araújo Multiplex Parque Das Bandeiras",
+          "enabled": true,
+          "blockMessage": "",
+          "rooms": [
+            {
+              "name": "Sala 1 - MAX SCREEN LASER",
+              "sessions": [
+                {
+                  "id": "86523982",
+                  "type": [
+                    "Telas Gigantes/PLF",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Telas Gigantes/PLF",
+                      "display": true
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-30T17:00:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-30T17:00:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86523982"
+                },
+                {
+                  "id": "86523937",
+                  "type": [
+                    "Telas Gigantes/PLF",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Telas Gigantes/PLF",
+                      "display": true
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-30T20:35:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-30T20:35:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86523937"
+                }
+              ]
+            },
+            {
+              "name": "Sala 3 - VIP",
+              "sessions": [
+                {
+                  "id": "86626249",
+                  "type": [
+                    "Vip",
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-30T21:00:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-30T21:00:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86626249"
+                }
+              ]
+            },
+            {
+              "name": "Sala 5",
+              "sessions": [
+                {
+                  "id": "86523969",
+                  "type": [
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-30T16:00:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-30T16:00:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86523969"
+                },
+                {
+                  "id": "86523934",
+                  "type": [
+                    "Infinity Vision",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Infinity Vision",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-30T19:35:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-30T19:35:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86523934"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "135",
+          "name": "Cinemark Shopping Iguatemi Campinas",
+          "enabled": true,
+          "blockMessage": "",
+          "rooms": [
+            {
+              "name": "Sala 5",
+              "sessions": [
+                {
+                  "id": "86757219",
+                  "type": [
+                    "D-Box",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "D-Box",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-30T21:30:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-30T21:30:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86757219"
+                }
+              ]
+            },
+            {
+              "name": "Sala 6",
+              "sessions": [
+                {
+                  "id": "86522163",
+                  "type": [
+                    "3D",
+                    "XD",
+                    "D-Box",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "3D",
+                      "display": true
+                    },
+                    {
+                      "name": "XD",
+                      "display": true
+                    },
+                    {
+                      "name": "D-Box",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-30T16:10:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-30T16:10:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86522163"
+                }
+              ]
+            },
+            {
+              "name": "Sala 6",
+              "sessions": [
+                {
+                  "id": "86522171",
+                  "type": [
+                    "XD",
+                    "D-Box",
+                    "Legendado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "XD",
+                      "display": true
+                    },
+                    {
+                      "name": "D-Box",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-30T20:00:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-30T20:00:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86522171"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1057",
+          "name": "Cinépolis Campinas Shopping",
+          "enabled": true,
+          "blockMessage": "Infelizmente estamos sem comunicação com o local.",
+          "rooms": [
+            {
+              "name": "Sala 1",
+              "sessions": [
+                {
+                  "id": "86661602",
+                  "type": [
+                    "Normal",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-30T14:15:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-30T14:15:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86661602"
+                },
+                {
+                  "id": "86662404",
+                  "type": [
+                    "Normal",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-30T21:45:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-30T21:45:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86662404"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1524",
+          "name": "Cinépolis Shopping Galleria Campinas",
+          "enabled": true,
+          "blockMessage": "",
+          "rooms": [
+            {
+              "name": "Sala 1",
+              "sessions": [
+                {
+                  "id": "86678253",
+                  "type": [
+                    "Normal",
+                    "Vip",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-30T14:15:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-30T14:15:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86678253"
+                },
+                {
+                  "id": "86678254",
+                  "type": [
+                    "Normal",
+                    "Vip",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Normal",
+                      "display": false
+                    },
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-30T18:00:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-30T18:00:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86678254"
+                }
+              ]
+            },
+            {
+              "name": "Sala 1",
+              "sessions": [
+                {
+                  "id": "86682956",
+                  "type": [
+                    "3D",
+                    "Vip",
+                    "Legendado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "3D",
+                      "display": true
+                    },
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-30T21:45:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-30T21:45:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86682956"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "136",
+          "name": "Kinoplex Dom Pedro",
+          "enabled": true,
+          "blockMessage": "",
+          "rooms": [
+            {
+              "name": "Sala 10",
+              "sessions": [
+                {
+                  "id": "86663787",
+                  "type": [
+                    "Vip",
+                    "Legendado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-30T16:10:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-30T16:10:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86663787"
+                },
+                {
+                  "id": "86663909",
+                  "type": [
+                    "Vip",
+                    "Legendado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "Vip",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-30T19:50:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-30T19:50:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86663909"
+                }
+              ]
+            },
+            {
+              "name": "Sala 12",
+              "sessions": [
+                {
+                  "id": "86651916",
+                  "type": [
+                    "3D",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "3D",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-30T16:30:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-30T16:30:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86651916"
+                },
+                {
+                  "id": "86651652",
+                  "type": [
+                    "3D",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "3D",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-30T20:10:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-30T20:10:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86651652"
+                }
+              ]
+            },
+            {
+              "name": "Sala 7",
+              "sessions": [
+                {
+                  "id": "86538497",
+                  "type": [
+                    "IMAX",
+                    "Dublado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Dublado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-30T16:50:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-30T16:50:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86538497"
+                }
+              ]
+            },
+            {
+              "name": "Sala 7",
+              "sessions": [
+                {
+                  "id": "86538484",
+                  "type": [
+                    "IMAX",
+                    "Legendado"
+                  ],
+                  "enabled": true,
+                  "blockMessage": "",
+                  "types": [
+                    {
+                      "name": "IMAX",
+                      "display": true
+                    },
+                    {
+                      "name": "Legendado",
+                      "display": true
+                    }
+                  ],
+                  "date": {
+                    "localDate": "2026-09-30T20:30:00-03:00"
+                  },
+                  "realDate": {
+                    "localDate": "2026-09-30T20:30:00-03:00"
+                  },
+                  "siteURL": "https://checkout.ingresso.com/?sessionId=86538484"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

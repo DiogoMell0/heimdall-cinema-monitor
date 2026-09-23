@@ -1,0 +1,399 @@
+{
+  "source": "https://www.ingresso.com/filme/vingadores-ultimato-encore-relancamento?city=campinas",
+  "observedOn": "2026-09-07",
+  "availableDates": [
+    "2026-09-24",
+    "2026-09-25",
+    "2026-09-26",
+    "2026-09-27",
+    "2026-09-28",
+    "2026-09-29",
+    "2026-09-30"
+  ],
+  "method": "Transcrição histórica de links, horários e rótulos visíveis da página, coletados por navegador em 07/09/2026. Sem filtros de formato ou idioma.",
+  "samples": [
+    {
+      "date": "2026-09-24",
+      "cinemas": [
+        {
+          "name": "Cine Araújo Multiplex Parque Das Bandeiras",
+          "rows": [
+            [
+              "86524297",
+              "16:00",
+              [
+                "Infinity Vision",
+                "Dublado"
+              ]
+            ],
+            [
+              "86523962",
+              "19:35",
+              [
+                "Infinity Vision",
+                "Dublado"
+              ]
+            ],
+            [
+              "86626260",
+              "21:00",
+              [
+                "Infinity Vision",
+                "Vip",
+                "Dublado"
+              ]
+            ],
+            [
+              "86524564",
+              "13:25",
+              [
+                "Infinity Vision",
+                "Telas Gigantes/PLF",
+                "Dublado"
+              ]
+            ],
+            [
+              "86524651",
+              "17:00",
+              [
+                "Infinity Vision",
+                "Telas Gigantes/PLF",
+                "Dublado"
+              ]
+            ],
+            [
+              "86523342",
+              "20:35",
+              [
+                "Infinity Vision",
+                "Telas Gigantes/PLF",
+                "Dublado"
+              ]
+            ]
+          ]
+        },
+        {
+          "name": "Cinemark Shopping Iguatemi Campinas",
+          "rows": [
+            [
+              "86757256",
+              "21:30",
+              [
+                "D-Box",
+                "Dublado"
+              ]
+            ],
+            [
+              "86522157",
+              "20:00",
+              [
+                "XD",
+                "D-Box",
+                "Legendado"
+              ]
+            ],
+            [
+              "86522159",
+              "16:10",
+              [
+                "3D",
+                "XD",
+                "D-Box",
+                "Dublado"
+              ]
+            ]
+          ]
+        },
+        {
+          "name": "Cinépolis Campinas Shopping",
+          "rows": [
+            [
+              "86667975",
+              "14:15",
+              [
+                "Dublado"
+              ]
+            ],
+            [
+              "86667513",
+              "21:45",
+              [
+                "Dublado"
+              ]
+            ]
+          ]
+        },
+        {
+          "name": "Cinépolis Shopping Galleria Campinas",
+          "rows": [
+            [
+              "86675938",
+              "14:15",
+              [
+                "Vip",
+                "Dublado"
+              ]
+            ],
+            [
+              "86678244",
+              "18:00",
+              [
+                "Vip",
+                "Dublado"
+              ]
+            ],
+            [
+              "86682952",
+              "21:45",
+              [
+                "3D",
+                "Vip",
+                "Legendado"
+              ]
+            ]
+          ]
+        },
+        {
+          "name": "Kinoplex Dom Pedro",
+          "rows": [
+            [
+              "86538504",
+              "16:50",
+              [
+                "IMAX",
+                "Dublado"
+              ]
+            ],
+            [
+              "86538471",
+              "20:30",
+              [
+                "IMAX",
+                "Legendado"
+              ]
+            ],
+            [
+              "86663868",
+              "16:10",
+              [
+                "Vip",
+                "Legendado"
+              ]
+            ],
+            [
+              "86660510",
+              "19:50",
+              [
+                "Vip",
+                "Legendado"
+              ]
+            ],
+            [
+              "86651639",
+              "16:30",
+              [
+                "3D",
+                "Dublado"
+              ]
+            ],
+            [
+              "86651911",
+              "20:10",
+              [
+                "3D",
+                "Dublado"
+              ]
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "cinemas": [
+        {
+          "name": "Cine Araújo Multiplex Parque Das Bandeiras",
+          "rows": [
+            [
+              "86523969",
+              "16:00",
+              [
+                "Infinity Vision",
+                "Dublado"
+              ]
+            ],
+            [
+              "86523934",
+              "19:35",
+              [
+                "Infinity Vision",
+                "Dublado"
+              ]
+            ],
+            [
+              "86626249",
+              "21:00",
+              [
+                "Infinity Vision",
+                "Vip",
+                "Dublado"
+              ]
+            ],
+            [
+              "86523982",
+              "17:00",
+              [
+                "Infinity Vision",
+                "Telas Gigantes/PLF",
+                "Dublado"
+              ]
+            ],
+            [
+              "86523937",
+              "20:35",
+              [
+                "Infinity Vision",
+                "Telas Gigantes/PLF",
+                "Dublado"
+              ]
+            ]
+          ]
+        },
+        {
+          "name": "Cinemark Shopping Iguatemi Campinas",
+          "rows": [
+            [
+              "86757219",
+              "21:30",
+              [
+                "D-Box",
+                "Dublado"
+              ]
+            ],
+            [
+              "86522171",
+              "20:00",
+              [
+                "XD",
+                "D-Box",
+                "Legendado"
+              ]
+            ],
+            [
+              "86522163",
+              "16:10",
+              [
+                "3D",
+                "XD",
+                "D-Box",
+                "Dublado"
+              ]
+            ]
+          ]
+        },
+        {
+          "name": "Cinépolis Campinas Shopping",
+          "rows": [
+            [
+              "86661602",
+              "14:15",
+              [
+                "Dublado"
+              ]
+            ],
+            [
+              "86662404",
+              "21:45",
+              [
+                "Dublado"
+              ]
+            ]
+          ]
+        },
+        {
+          "name": "Cinépolis Shopping Galleria Campinas",
+          "rows": [
+            [
+              "86678253",
+              "14:15",
+              [
+                "Vip",
+                "Dublado"
+              ]
+            ],
+            [
+              "86678254",
+              "18:00",
+              [
+                "Vip",
+                "Dublado"
+              ]
+            ],
+            [
+              "86682956",
+              "21:45",
+              [
+                "3D",
+                "Vip",
+                "Legendado"
+              ]
+            ]
+          ]
+        },
+        {
+          "name": "Kinoplex Dom Pedro",
+          "rows": [
+            [
+              "86538497",
+              "16:50",
+              [
+                "IMAX",
+                "Dublado"
+              ]
+            ],
+            [
+              "86538484",
+              "20:30",
+              [
+                "IMAX",
+                "Legendado"
+              ]
+            ],
+            [
+              "86663787",
+              "16:10",
+              [
+                "Vip",
+                "Legendado"
+              ]
+            ],
+            [
+              "86663909",
+              "19:50",
+              [
+                "Vip",
+                "Legendado"
+              ]
+            ],
+            [
+              "86651916",
+              "16:30",
+              [
+                "3D",
+                "Dublado"
+              ]
+            ],
+            [
+              "86651652",
+              "20:10",
+              [
+                "3D",
+                "Dublado"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+[project]
+name = "heimdall-cinema-monitor"
+version = "0.6.0"
+description = "Monitor local de sessões de cinema com avisos pelo Telegram"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.uv]
+package = false

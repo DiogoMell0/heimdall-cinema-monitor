@@ -1,0 +1,21 @@
+{
+  "status": "ok",
+  "cycle": 2,
+  "lastStarted": "2026-09-15T19:01:23.793407+00:00",
+  "lastFinished": "2026-09-15T19:01:24.638845+00:00",
+  "collectedAt": "2026-09-15T19:01:24.606288+00:00",
+  "sessions": 145,
+  "matching": 0,
+  "newSessions": 0,
+  "changedSessions": 0,
+  "newEvents": 0,
+  "publishedDatesInPeriod": 7,
+  "totalDates": 8,
+  "pendingDates": [
+    "2026-10-01"
+  ],
+  "sessionMessagesSent": 0,
+  "pendingDeliveries": 0,
+  "uncertainDeliveries": 0,
+  "telegramConfirmed": true
+}
